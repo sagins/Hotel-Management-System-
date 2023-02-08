@@ -1,7 +1,6 @@
-Name: Emrehan Sagin
-Student #: 101223876
+Programmer Name: Emrehan Sagin
 
-Hotel Management System Assignment
+Hotel Management System 
 
 This application is a hotel management system implemented in C++. It consists of 4 classes: Date, Reservation, Room, and Hotel
 
